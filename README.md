@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm skill
+[![My Skills](https://skillicons.dev/icons?i=cpp,csharp,flutter)](https://skillicons.dev)
+
 
 <!--
 **barrier15300/barrier15300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
