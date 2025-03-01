@@ -4,6 +4,13 @@
 ## I'm skill
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)
 
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,figma)](https://skillicons.dev)
+
+## OS
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+
 <!--
 **barrier15300/barrier15300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
