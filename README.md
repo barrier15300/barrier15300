@@ -1,5 +1,5 @@
 ## I'm skill
-[![My Skills](https://skillicons.dev/icons?i=cpp,csharp,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)
 
 
 <!--
