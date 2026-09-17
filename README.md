@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrier15300)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrier15300)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=barrier15300)](https://github.com/stats-organization/github-stats-extended)
 
 ## My programing skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)
