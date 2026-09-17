@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrier15300)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=barrier&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=dark_github)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=barrier15300)](https://github.com/stats-organization/github-stats-extended)
 
 ## My programing skills
