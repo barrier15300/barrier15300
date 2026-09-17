@@ -1,5 +1,5 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=barrier&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=dark_github)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=barrier15300)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=barrier15300&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=barrier15300&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=barrier15300&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=barrier15300&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ## My programing skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)
